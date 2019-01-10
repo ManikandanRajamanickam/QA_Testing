@@ -87,6 +87,7 @@ public class TestAutomation {
 	
 
 	@BeforeTest
+	
 	public void beforeTest() {
 
 		try {
@@ -96,20 +97,14 @@ public class TestAutomation {
 			PropertyConfigurator.configure("log4jproperties.txt");
 
 			System.setProperty("webdriver.chrome.driver",
-					"..\\AltiusAutomationTemplate\\src\\test\\resources\\chromedriver.exe");
+					"/AltiusAutomationTemplate/src/test/resources/chromedriver");
 
-			// ChromeOptions options = new ChromeOptions();
-
-			// options.addArguments("window-size=800,480");
-
+			
 			d = new ChromeDriver();
 
 			logger.info("browser gets open");
 			
-			// ChromeOptions options = new ChromeOptions();
-
-			// options.addArguments("start-maximized");
-
+			
 			Thread.sleep(1000);
 
 			d.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -131,44 +126,7 @@ public class TestAutomation {
 		}
 
 	}
-	/*  
-	@Test
-	public static void main(String[] args) throws InterruptedException {
-
-		logger = logger.getLogger(" Habitos - ERP");
-
-		PropertyConfigurator.configure("log4jproperties.txt");
-
-		// DOMConfigurator.configure("logging.xml");
-
-		TestAutomation hts = new TestAutomation();
-
-		System.out.println("first method is running");
-		hts.beforeTest();
-		
-		System.out.println("2nd method is running");
-		hts.Login_invalid();
-		
-		System.out.println("3rd method is running");
-		hts.Login_valid();
-		
-		System.out.println("4th method is running");
 	
-		//	hts.boundary_valus();
-		
-		hts.Crminfo_Add();
-		
-		System.out.println("5th method is running");
-		hts.info_add();
-		
-		hts.Crminfo_Add_meal();
-		
-		hts.CRM_update();
-		
-	}
-
-	*/
-
 	@AfterTest
 	public void afterTest() {
 
