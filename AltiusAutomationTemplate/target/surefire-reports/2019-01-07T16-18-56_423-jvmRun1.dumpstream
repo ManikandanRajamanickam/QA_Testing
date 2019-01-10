@@ -1,0 +1,37 @@
+# Created at 2019-01-07T16:19:24.822
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-01-07T16:19:25.135
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1296)| Verify that if click info it should redirect to crm info index screen 
+
+
+# Created at 2019-01-07T16:19:25.145
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1342)| if click upload button it should upload the enrolment file
+
+
+# Created at 2019-01-07T16:19:25.152
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,individual_enrollment(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:19:25.159
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T16:19:25.668
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1383)| verify that if click view control menu it should redirect to related screen
+
+
+# Created at 2019-01-07T16:19:25.674
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:19:26.220
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.altius.automation.TestAutomation,null,null,null
+
+

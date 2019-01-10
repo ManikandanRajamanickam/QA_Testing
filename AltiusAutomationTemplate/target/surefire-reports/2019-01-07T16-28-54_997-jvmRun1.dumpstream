@@ -1,0 +1,77 @@
+# Created at 2019-01-07T16:29:14.586
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-01-07T16:29:14.739
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:282)| Verify that if click info it should redirect to crm info index screen 
+
+
+# Created at 2019-01-07T16:29:16.983
+Unexpected IOException with stream: [1546858756.982][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:20.999
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:297)| Verify that if click add new button it should redirect to add new screen
+
+
+# Created at 2019-01-07T16:29:21.006
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,Crminfo_Add(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:29:21.012
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,Crminfo_Add_meal(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T16:29:23.023
+Unexpected IOException with stream: [1546858763.020][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:27.051
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:555)| Verify that user can able to select the meal time
+
+
+# Created at 2019-01-07T16:29:29.075
+Unexpected IOException with stream: [1546858769.073][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:33.096
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:572)| Verify that user can able to select meal type
+
+
+# Created at 2019-01-07T16:29:35.108
+Unexpected IOException with stream: [1546858775.105][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:39.134
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:586)| Verify that user can able to select Student type
+
+
+# Created at 2019-01-07T16:29:41.158
+Unexpected IOException with stream: [1546858781.156][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:45.173
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:600)| Verify that user can able to select spread type
+
+
+# Created at 2019-01-07T16:29:47.305
+Unexpected IOException with stream: [1546858787.303][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:51.314
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:620)| Verify that user can able to enter the total count
+
+
+# Created at 2019-01-07T16:29:53.322
+Unexpected IOException with stream: [1546858793.322][WARNING]: Timed out connecting to Chrome, retrying...
+
+
+# Created at 2019-01-07T16:29:57.334
+Unexpected IOException with stream:  INFO [main] (TestAutomation.java:639)| Verify that user can able to select the consume time
+
+

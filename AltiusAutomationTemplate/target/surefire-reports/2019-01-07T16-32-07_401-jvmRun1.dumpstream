@@ -1,0 +1,53 @@
+# Created at 2019-01-07T16:32:24.914
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-01-07T16:32:24.928
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,New_view_control_view(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:32:24.942
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,boundary_valus(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T16:32:24.959
+Unexpected IOException: 8,1,com.altius.automation.TestAutomation,boundary_valus(com.altius.automation.TestAutomation),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver,TestAutomation.boundary_valus:204 \00BB NoSuchWindow no such window: target window...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at com.altius.automation.TestAutomation.boundary_valus(TestAutomation.java:204)\000A
+
+
+# Created at 2019-01-07T16:32:24.976
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,individual_enrollment(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T16:32:25.494
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1296)| Verify that if click info it should redirect to crm info index screen 
+
+
+# Created at 2019-01-07T16:32:25.517
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1342)| if click upload button it should upload the enrolment file
+
+
+# Created at 2019-01-07T16:32:25.529
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,individual_enrollment(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:32:25.539
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T16:32:26.055
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1383)| verify that if click view control menu it should redirect to related screen
+
+
+# Created at 2019-01-07T16:32:26.063
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:32:26.626
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.altius.automation.TestAutomation,null,null,null
+
+

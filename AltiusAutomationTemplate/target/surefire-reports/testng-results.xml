@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="9" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38800" started-at="2019-01-08T12:31:58Z" finished-at="2019-01-08T12:32:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38800" started-at="2019-01-08T12:31:58Z" finished-at="2019-01-08T12:32:37Z">
+      <class name="com.altius.automation.TestAutomation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="beforeTest" is-config="true" duration-ms="6883" started-at="2019-01-08T12:31:58Z" finished-at="2019-01-08T12:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login_invalid()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="Login_invalid" duration-ms="980" started-at="2019-01-08T12:32:05Z" finished-at="2019-01-08T12:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_invalid -->
+        <test-method status="PASS" signature="Login_valid()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="Login_valid" duration-ms="2384" started-at="2019-01-08T12:32:06Z" finished-at="2019-01-08T12:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+        <test-method status="PASS" signature="Crminfo_Add()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="Crminfo_Add" duration-ms="13408" started-at="2019-01-08T12:32:08Z" finished-at="2019-01-08T12:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Crminfo_Add -->
+        <test-method status="PASS" signature="Crminfo_Add_meal()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="Crminfo_Add_meal" duration-ms="1633" started-at="2019-01-08T12:32:21Z" finished-at="2019-01-08T12:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Crminfo_Add_meal -->
+        <test-method status="PASS" signature="individual_enrollment()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="individual_enrollment" duration-ms="13491" started-at="2019-01-08T12:32:23Z" finished-at="2019-01-08T12:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- individual_enrollment -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.altius.automation.TestAutomation@783e6358]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-01-08T12:32:37Z" finished-at="2019-01-08T12:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.altius.automation.TestAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

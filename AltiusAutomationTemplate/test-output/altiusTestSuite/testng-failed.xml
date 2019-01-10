@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [altiusTestSuite]">
+  <test thread-count="5" name="TestSample(failed)">
+    <classes>
+      <class name="com.altius.automation.TestAutomation">
+        <methods>
+          <include name="Login_invalid"/>
+          <include name="New_view_control"/>
+          <include name="Login_valid"/>
+          <include name="New_view_control_view"/>
+          <include name="boundary_valus"/>
+          <include name="view_control"/>
+          <include name="individual_enrollment"/>
+          <include name="Crminfo_Add_meal"/>
+          <include name="afterTest"/>
+          <include name="Crminfo_Add"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.altius.automation.TestAutomation -->
+    </classes>
+  </test> <!-- TestSample(failed) -->
+</suite> <!-- Failed suite [altiusTestSuite] -->

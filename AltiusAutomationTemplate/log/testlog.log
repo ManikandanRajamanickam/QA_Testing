@@ -1,0 +1,1659 @@
+2018-12-29 11:11:11,053 |  Habitos - ERP |INFO | browser gets open
+2018-12-29 11:11:13,605 |  Habitos - ERP |INFO | browser gets valid ip address
+2018-12-29 11:11:13,606 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2018-12-29 11:11:13,733 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2018-12-29 11:11:13,750 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2018-12-29 11:11:13,887 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2018-12-29 11:11:13,897 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2018-12-29 11:11:16,165 |  Habitos - ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2018-12-29 11:11:16,272 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2018-12-29 11:11:16,285 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2018-12-29 11:11:16,513 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2018-12-29 11:11:16,525 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2018-12-29 11:11:16,635 |  Habitos - ERP |INFO | Verify that user can able to login the valid credentials
+2018-12-29 11:11:22,261 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2018-12-29 11:11:22,471 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2018-12-29 11:11:22,477 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2018-12-29 11:11:22,480 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2018-12-29 11:11:22,484 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2018-12-29 11:11:22,487 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2018-12-29 11:11:22,490 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2018-12-29 11:11:22,494 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2018-12-29 11:11:22,497 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2018-12-29 11:11:22,499 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2018-12-29 11:11:22,504 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2018-12-29 11:35:11,806 |  Habitos - ERP |INFO | browser gets valid ip address
+2018-12-29 11:35:11,811 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2018-12-29 11:35:11,927 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2018-12-29 11:35:11,941 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2018-12-29 11:35:12,072 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2018-12-29 11:35:12,085 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2018-12-29 11:35:12,516 |  Habitos - ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2018-12-29 11:35:12,603 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2018-12-29 11:35:12,612 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2018-12-29 11:35:12,742 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2018-12-29 11:35:12,756 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2018-12-29 11:35:12,838 |  Habitos - ERP |INFO | Verify that user can able to login the valid credentials
+2018-12-29 11:35:16,161 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2018-12-29 12:17:52,417 | com.altius.automation.TestAutomation |INFO | Browser is lauched 
+2018-12-29 12:18:34,252 | com.altius.automation.TestAutomation |INFO | Browser is lauched 
+2018-12-29 12:22:55,708 | com.altius.automation.TestAutomation |INFO | Browser is lauched 
+2018-12-29 12:27:23,574 | com.altius.automation.TestAutomation |INFO | Browser is lauched 
+2018-12-29 15:33:41,911 |  BramHope Website Portal |INFO | browser gets open
+2018-12-29 15:33:47,732 |  BramHope Website Portal |INFO | browser gets valid ip address
+2018-12-29 15:33:56,607 |  BramHope Website Portal |INFO | brower gets opened
+2018-12-29 15:33:56,607 |  BramHope Website Portal |ERROR | message is not correct
+2018-12-29 15:33:56,608 |  BramHope Website Portal |FATAL | yah it gets error
+2018-12-29 15:33:58,017 |  BramHope Website Portal |INFO | Driver gets closed
+2018-12-29 15:34:08,910 |  BramHope Website Portal |INFO | browser gets open
+2018-12-29 15:34:12,070 |  BramHope Website Portal |INFO | browser gets valid ip address
+2018-12-29 15:34:14,159 |  BramHope Website Portal |INFO | brower gets opened
+2018-12-29 15:34:14,159 |  BramHope Website Portal |ERROR | message is not correct
+2018-12-29 15:34:14,160 |  BramHope Website Portal |FATAL | yah it gets error
+2018-12-29 15:34:15,621 |  BramHope Website Portal |INFO | Driver gets closed
+2018-12-29 15:36:46,219 |  BramHope Website Portal |INFO | browser gets open
+2018-12-29 15:36:51,860 |  BramHope Website Portal |INFO | browser gets valid ip address
+2018-12-29 15:40:29,317 |  BramHope Website Portal |INFO | browser gets open
+2018-12-29 15:40:36,831 |  BramHope Website Portal |INFO | browser gets valid ip address
+2018-12-29 15:40:41,466 |  BramHope Website Portal |INFO | brower gets opened
+2018-12-29 15:40:41,466 |  BramHope Website Portal |ERROR | message is not correct
+2018-12-29 15:40:41,467 |  BramHope Website Portal |FATAL | yah it gets error
+2018-12-29 15:40:42,976 |  BramHope Website Portal |INFO | Driver gets closed
+2018-12-29 15:41:13,948 |  BramHope Website Portal |INFO | browser gets open
+2018-12-29 15:41:21,485 |  BramHope Website Portal |INFO | browser gets valid ip address
+2018-12-29 15:41:24,284 |  BramHope Website Portal |INFO | brower gets opened
+2018-12-29 15:41:24,285 |  BramHope Website Portal |ERROR | message is not correct
+2018-12-29 15:41:24,285 |  BramHope Website Portal |FATAL | yah it gets error
+2018-12-29 15:41:25,724 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 11:04:04,993 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 11:04:08,068 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 11:04:09,812 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 11:04:09,812 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 11:04:09,813 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 11:04:11,345 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 11:04:23,731 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 11:04:27,263 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 11:04:28,849 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 11:04:28,850 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 11:04:28,851 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 11:04:30,269 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 11:04:42,035 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 11:04:45,528 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 11:04:47,096 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 11:04:47,097 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 11:04:47,097 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 11:04:48,517 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 11:06:06,747 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 11:06:09,732 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 11:06:11,361 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 11:06:11,362 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 11:06:11,362 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 11:06:12,973 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 12:08:17,639 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 12:08:32,524 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 12:08:34,527 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 12:08:34,528 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 12:08:34,528 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 12:08:36,076 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 14:30:21,400 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:30:43,758 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:30:43,776 |  BramHope Website Portal |INFO | Website Url is :http://bramhope.altiussolution.com/
+2019-01-03 14:30:57,028 |  Verify Page_Header Panel |ERROR | Verify that if the header contain the all fields
+2019-01-03 14:31:13,540 |  Page_Header Panel |ERROR | verify that bramhope logo is present
+2019-01-03 14:31:13,545 |  Page_Header Panel |ERROR | verify that if the search box is present
+2019-01-03 14:31:13,553 |  Page_Header Panel |ERROR | verify that if the Bulk Order pad is present
+2019-01-03 14:31:13,578 |  Page_Header Panel |ERROR | verify that if the My Cart button is present
+2019-01-03 14:31:13,586 |  Page_Header Panel |ERROR | verify that if the My Cart bubels is present
+2019-01-03 14:31:14,089 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:31:14,093 | About |ERROR | Verify that if the About menu is present
+2019-01-03 14:31:14,098 |  Catalogue |INFO | Verify that if the Catalogue menu is present
+2019-01-03 14:31:28,790 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:31:35,287 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:31:35,297 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:31:37,905 |  Verify Page_Header Panel |INFO | Verify that if the header contain the email address : sales@bramhope.co.za
+2019-01-03 14:31:37,946 |  Verify Page_Header Panel |INFO | Verify that if the header contain the phone number : +27 11 397 5075/6
+2019-01-03 14:31:37,989 |  Verify Page_Header Panel |INFO | Verify that if the header contain the Purchase Products link Purchased Products
+2019-01-03 14:31:38,038 |  Verify Page_Header Panel |INFO | Verify that if the header contain the About link  About
+2019-01-03 14:31:38,087 |  Verify Page_Header Panel |INFO | Verify that if the header contain the My account : My Account
+2019-01-03 14:31:38,658 |  Page_Header Panel |INFO | verify that bramhope logo is present:http://uat.altiussolution.com/site/img/logo-bg.png
+2019-01-03 14:31:38,705 |  Page_Header Panel |INFO | verify that if the search box is present
+2019-01-03 14:31:38,746 |  Page_Header Panel |INFO | verify that if the Bulk Order pad is present
+2019-01-03 14:31:38,780 |  Page_Header Panel |INFO | verify that if the My Cart is present
+2019-01-03 14:31:38,819 |  Page_Header Panel |INFO | verify that if the My Cart bubels is present
+2019-01-03 14:31:39,362 |  Home Menu |INFO | Verify that home menu is present
+2019-01-03 14:31:41,797 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:31:42,332 | About |INFO | Verify that if  About menu is present
+2019-01-03 14:31:50,873 | About |ERROR | If Click About Link it should redirect to About Page
+2019-01-03 14:31:50,917 |  Catalogue |INFO | Verify that if the catelogue menu is present
+2019-01-03 14:31:57,428 | Services |INFO | Verify that if the Service menu is present
+2019-01-03 14:31:59,468 | Services |ERROR | Verify that if click Services menu it should redirect to related screen
+2019-01-03 14:32:00,556 |  Careers |INFO | Verify that the Career menu is present
+2019-01-03 14:32:06,104 |  Careers |ERROR | If click Services menu it should redirect to related screen
+2019-01-03 14:32:06,358 |  Careers |ERROR | Verify that the Career menu is present
+2019-01-03 14:32:09,461 |  Whats_New |ERROR | Verify that Whats_New menu Present
+2019-01-03 14:32:14,952 |  Verify contacts |INFO | Verify that if the contact menu is present
+2019-01-03 14:32:20,026 |  Help Center |INFO | Verify that if the Help Center menu is present
+2019-01-03 14:32:40,824 | Offers |INFO | Verify that if the offer image's  are  present in offer zone 
+2019-01-03 14:32:42,681 | Offers |ERROR | Verify that if click offer1 image it redirect to offers page
+2019-01-03 14:32:46,983 | Offers |ERROR | Verify that if click offer1 image it redirect to offers page
+2019-01-03 14:32:51,197 | Offers |ERROR | Verify that if click offer1 image it redirect to offers page
+2019-01-03 14:32:54,968 | Verify  New_arrivals Card |INFO | Verify that New Arrivals is present in the home screen
+2019-01-03 14:32:58,744 |  Testimonials Panel |INFO | Verify that if Testimonials  is present
+2019-01-03 14:33:02,122 | Health_Safety_Services(Retail) |ERROR | Verify that if the Retail Service details are present
+2019-01-03 14:33:02,155 | Health_Safety_Services(Consulting) |ERROR | Verify that if the consulting Service details are present
+2019-01-03 14:33:02,182 | Health_Safety_Services(Software) |ERROR | Verify that if the  Software details are present
+2019-01-03 14:33:12,250 | Health_Safety_Services(Traning) |ERROR | Verify that Health_Safety_Services are present in home page
+2019-01-03 14:33:17,804 | Footer Section |INFO | Verify that if the footer contains Bramhope address details and Social LInks
+2019-01-03 14:33:20,102 | Footer Section |INFO | Verify that if the user can able to click  footer home button 
+2019-01-03 14:33:20,220 | Footer Section |ERROR | Verify that if click footer about link it should redirect to related screen
+2019-01-03 14:33:22,409 | Footer Section |ERROR | Verify that if click footer about link it should redirect to About  screen
+2019-01-03 14:33:25,508 | Footer Section |INFO | Verify that if the footer contains the SHEQ 
+2019-01-03 14:33:25,509 | Footer Section |ERROR | Verify that if click footer SHEQ link it should redirect to related  screen
+2019-01-03 14:33:28,598 | Footer Section |INFO | Verify that if click footer Download 
+2019-01-03 14:33:28,598 | Footer Section |ERROR | Verify that if click footer Download link it should redirect to related  screen
+2019-01-03 14:33:31,690 | Footer Section |INFO | Verify that if the footer contains the all Tools  Details 
+2019-01-03 14:33:31,691 | Footer Section |ERROR | Verify that if click footer Download link it should redirect to related  screen
+2019-01-03 14:33:44,799 | Footer Section |ERROR | Verify that if click footer Download link it should redirect to related  screen
+2019-01-03 14:33:47,881 | Footer Section |INFO | Verify that if the footer contains all support details
+2019-01-03 14:33:50,962 | Footer Section |INFO | Verify that if the footer contains My Account Details
+2019-01-03 14:33:54,039 | Footer Section |ERROR | Verify that if the Copy Rights are present the bottom of the page
+2019-01-03 14:33:54,096 |  Bulk Order Pad |INFO | Verify that if the Bulk Order pad is present
+2019-01-03 14:33:54,240 |  Bulk Order Pad |INFO | Verify that if the text box get autofocus automatically
+2019-01-03 14:33:59,627 |  Bulk Order Pad |INFO | Verify that user can't able to add the items using invalid #
+2019-01-03 14:34:02,803 |  Bulk Order Pad |INFO | Verify that if the Bulk Order pad is present
+2019-01-03 14:34:02,868 |  Bulk Order Pad |INFO | Verify that if the text box get autofocus automatically
+2019-01-03 14:34:09,213 |  Bulk Order Pad |INFO | Verify that user can able to add the items using Valid #
+2019-01-03 14:34:14,405 |  Bulk Order Pad |INFO | Verify that if click my cart it should redirect to my cart page
+2019-01-03 14:34:24,440 |  Bulk Order Pad |ERROR | Verify that if click my cart it should redirect to my cart page
+2019-01-03 14:37:06,959 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:37:11,492 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:37:11,499 |  BramHope Website Portal |ERROR | Website is not open
+2019-01-03 14:37:22,450 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:37:54,617 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:38:04,365 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:38:04,375 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:38:38,539 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:38:44,226 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:38:44,238 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:39:08,901 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:39:16,054 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:39:16,063 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:39:18,624 |  Verify Page_Header Panel |INFO | Verify that if the header contain the email address : sales@bramhope.co.za
+2019-01-03 14:39:18,660 |  Verify Page_Header Panel |INFO | Verify that if the header contain the phone number : +27 11 397 5075/6
+2019-01-03 14:39:18,697 |  Verify Page_Header Panel |INFO | Verify that if the header contain the Purchase Products link Purchased Products
+2019-01-03 14:39:18,740 |  Verify Page_Header Panel |INFO | Verify that if the header contain the About link  About
+2019-01-03 14:39:18,778 |  Verify Page_Header Panel |INFO | Verify that if the header contain the My account : My Account
+2019-01-03 14:39:19,343 |  Page_Header Panel |INFO | verify that bramhope logo is present:http://uat.altiussolution.com/site/img/logo-bg.png
+2019-01-03 14:39:19,388 |  Page_Header Panel |INFO | verify that if the search box is present
+2019-01-03 14:39:19,430 |  Page_Header Panel |INFO | verify that if the Bulk Order pad is present
+2019-01-03 14:39:19,467 |  Page_Header Panel |INFO | verify that if the My Cart is present
+2019-01-03 14:39:19,514 |  Page_Header Panel |INFO | verify that if the My Cart bubels is present
+2019-01-03 14:39:20,047 |  Home Menu |INFO | Verify that home menu is present
+2019-01-03 14:39:21,943 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:39:22,484 | About |INFO | Verify that if  About menu is present
+2019-01-03 14:39:24,259 | About |ERROR | If Click About Link it should redirect to About Page
+2019-01-03 14:39:24,298 |  Catalogue |INFO | Verify that if the catelogue menu is present
+2019-01-03 14:39:58,305 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:40:05,479 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:40:05,494 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:40:58,117 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:41:06,043 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:41:06,061 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:41:45,809 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:41:53,358 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:41:53,373 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:43:05,127 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:43:12,670 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:43:12,683 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:45:12,747 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:45:22,296 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:45:22,311 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:48:16,011 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:48:55,936 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:48:55,952 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:56:13,334 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:56:23,125 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:56:23,138 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:58:11,033 |  BramHope Website Portal |ERROR | Website is not open
+2019-01-03 14:58:13,570 |  Verify Page_Header Panel |ERROR | Verify that if the header contain the all fields
+2019-01-03 14:58:14,073 |  Page_Header Panel |ERROR | verify that bramhope logo is present
+2019-01-03 14:58:14,075 |  Page_Header Panel |ERROR | verify that if the search box is present
+2019-01-03 14:58:14,076 |  Page_Header Panel |ERROR | verify that if the Bulk Order pad is present
+2019-01-03 14:58:14,077 |  Page_Header Panel |ERROR | verify that if the My Cart button is present
+2019-01-03 14:58:14,079 |  Page_Header Panel |ERROR | verify that if the My Cart bubels is present
+2019-01-03 14:58:14,581 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:58:14,582 | About |ERROR | Verify that if the About menu is present
+2019-01-03 14:58:14,584 |  Catalogue |INFO | Verify that if the Catalogue menu is present
+2019-01-03 14:58:17,585 | Services |ERROR | Verify that if the Service menu is present
+2019-01-03 14:58:33,246 |  BramHope Website Portal |ERROR | Website is not open
+2019-01-03 14:58:35,799 |  Verify Page_Header Panel |ERROR | Verify that if the header contain the all fields
+2019-01-03 14:58:36,301 |  Page_Header Panel |ERROR | verify that bramhope logo is present
+2019-01-03 14:58:36,301 |  Page_Header Panel |ERROR | verify that if the search box is present
+2019-01-03 14:58:36,301 |  Page_Header Panel |ERROR | verify that if the Bulk Order pad is present
+2019-01-03 14:58:36,302 |  Page_Header Panel |ERROR | verify that if the My Cart button is present
+2019-01-03 14:58:36,302 |  Page_Header Panel |ERROR | verify that if the My Cart bubels is present
+2019-01-03 14:58:36,802 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:58:36,804 | About |ERROR | Verify that if the About menu is present
+2019-01-03 14:58:36,805 |  Catalogue |INFO | Verify that if the Catalogue menu is present
+2019-01-03 14:59:09,210 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 14:59:16,992 |  BramHope Website Portal |INFO | Verify that if the url is correct or not
+2019-01-03 14:59:17,002 |  BramHope Website Portal |INFO | Website Url is :http://uat.altiussolution.com/
+2019-01-03 14:59:19,570 |  Verify Page_Header Panel |INFO | Verify that if the header contain the email address : sales@bramhope.co.za
+2019-01-03 14:59:19,611 |  Verify Page_Header Panel |INFO | Verify that if the header contain the phone number : +27 11 397 5075/6
+2019-01-03 14:59:19,689 |  Verify Page_Header Panel |INFO | Verify that if the header contain the Purchase Products link Purchased Products
+2019-01-03 14:59:19,776 |  Verify Page_Header Panel |INFO | Verify that if the header contain the About link  About
+2019-01-03 14:59:19,810 |  Verify Page_Header Panel |INFO | Verify that if the header contain the My account : My Account
+2019-01-03 14:59:20,379 |  Page_Header Panel |INFO | verify that bramhope logo is present:http://uat.altiussolution.com/site/img/logo-bg.png
+2019-01-03 14:59:20,427 |  Page_Header Panel |INFO | verify that if the search box is present
+2019-01-03 14:59:20,463 |  Page_Header Panel |INFO | verify that if the Bulk Order pad is present
+2019-01-03 14:59:20,495 |  Page_Header Panel |INFO | verify that if the My Cart is present
+2019-01-03 14:59:20,528 |  Page_Header Panel |INFO | verify that if the My Cart bubels is present
+2019-01-03 14:59:21,076 |  Home Menu |INFO | Verify that home menu is present
+2019-01-03 14:59:22,890 |  Home Menu |ERROR | Verify that home menu is present
+2019-01-03 14:59:22,896 | About |ERROR | Verify that if the About menu is present
+2019-01-03 14:59:22,906 |  Catalogue |INFO | Verify that if the Catalogue menu is present
+2019-01-03 15:02:04,722 |  BramHope Website Portal |INFO | Chrome broswer is openning
+2019-01-03 18:09:43,394 |  BramHope Website Portal |INFO | browser gets open
+2019-01-03 18:09:46,424 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-03 18:09:48,098 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-03 18:09:48,099 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-03 18:09:48,099 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-03 18:09:49,653 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-03 18:22:57,511 |  BramHope Website Portal |ERROR | isn't working
+2019-01-03 18:27:09,632 |  BramHope Website Portal |ERROR | isn't working
+2019-01-03 18:28:43,621 |  BramHope Website Portal |ERROR | isn't working
+2019-01-03 18:29:06,313 |  BramHope Website Portal |ERROR | isn't working
+2019-01-03 18:29:20,870 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:23:37,475 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:24:55,419 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:25:40,288 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:27:43,797 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:34:04,345 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 10:34:07,196 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 10:34:08,964 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 10:34:08,964 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 10:34:08,965 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 10:34:10,471 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 10:38:29,660 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:38:58,450 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 10:39:18,135 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 10:39:20,879 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 10:39:22,711 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 10:39:22,711 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 10:39:22,712 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 10:39:24,207 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 10:50:46,084 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 10:50:50,289 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 10:51:06,537 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 10:51:06,538 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 10:51:06,539 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 10:51:07,919 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 10:53:41,945 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 10:53:44,684 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 10:53:46,502 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 10:53:46,502 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 10:53:46,503 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 10:53:47,967 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 11:03:27,731 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 11:03:30,479 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 11:03:32,213 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 11:03:32,213 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 11:03:32,214 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 11:03:33,798 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 11:11:28,191 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 11:11:30,934 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 11:11:32,550 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 11:11:32,551 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 11:11:32,552 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 11:11:34,093 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 15:30:05,365 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 15:30:25,015 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 15:30:26,544 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 15:30:26,565 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 15:30:26,565 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 15:30:26,566 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 15:30:26,877 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 15:32:06,435 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 15:32:07,957 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 15:32:08,018 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 15:32:08,019 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 15:32:08,021 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 15:32:08,257 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 15:32:25,559 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 15:32:26,567 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 15:32:31,223 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 15:32:32,231 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 15:32:55,030 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 15:32:56,548 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 15:32:56,568 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 15:32:56,568 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 15:32:56,569 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 15:32:56,797 |  BramHope Website Portal |INFO | Driver gets closed
+2019-01-04 19:05:58,735 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:06:37,287 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:07:47,429 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:07:59,822 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:08:53,022 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 19:13:05,922 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:13:15,656 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:25:56,720 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:31:35,309 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 19:31:36,820 |  BramHope Website Portal |ERROR | isn't working
+2019-01-04 19:38:56,709 |  BramHope Website Portal |INFO | browser gets open
+2019-01-04 19:38:56,714 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-04 19:38:56,714 |  BramHope Website Portal |INFO | brower gets opened
+2019-01-04 19:38:56,715 |  BramHope Website Portal |ERROR | message is not correct
+2019-01-04 19:38:56,715 |  BramHope Website Portal |FATAL | yah it gets error
+2019-01-04 19:38:56,918 |  BramHope Website Portal |ERROR | isn't working
+2019-01-07 12:30:54,089 |  BramHope Website Portal |ERROR | isn't working
+2019-01-07 14:54:49,204 |  Habitos - ERP |ERROR | isn't working
+2019-01-07 14:54:49,224 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 14:55:01,097 |  Habitos - ERP |ERROR | isn't working
+2019-01-07 14:55:01,113 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 14:55:52,354 |  Habitos - ERP |ERROR | isn't working
+2019-01-07 14:55:52,383 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 14:56:10,032 |  Habitos - ERP |INFO | browser gets open
+2019-01-07 14:56:13,574 |  Habitos - ERP |INFO | browser gets valid ip address
+2019-01-07 14:56:13,574 |  Habitos - ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 14:56:13,708 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 14:56:13,727 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 14:56:13,836 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 14:56:13,850 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2019-01-07 14:56:14,459 |  Habitos - ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 14:56:14,525 |  Habitos - ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 14:56:14,543 |  Habitos - ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 14:56:14,665 |  Habitos - ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 14:56:14,677 |  Habitos - ERP |INFO | Verify that if the password fields get focused
+2019-01-07 14:56:14,738 |  Habitos - ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-07 14:56:36,279 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 14:56:38,868 |  Habitos - CRM Info |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 14:56:39,044 |  Habitos - CRM Info |INFO | User can enter the name in name field
+2019-01-07 14:56:41,238 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 14:56:41,240 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 14:56:41,243 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 14:56:41,246 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 14:56:41,250 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 14:56:41,252 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 14:56:41,255 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 14:56:41,259 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 14:56:41,262 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:15:54,173 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:15:57,754 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:15:57,754 |  BramHope Website Portal |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:15:57,862 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:15:57,878 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:15:58,004 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:15:58,015 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:15:58,358 |  BramHope Website Portal |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:15:58,432 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:15:58,447 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:15:58,578 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:15:58,589 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:15:58,663 |  BramHope Website Portal |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:16:08,115 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:16:10,015 |  Habitos - CRM Info |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:16:10,227 |  Habitos - CRM Info |INFO | User can enter the name in name field
+2019-01-07 15:16:10,550 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:16:10,552 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:16:10,557 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:16:10,561 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:16:10,564 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:16:10,567 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:16:10,570 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:16:10,575 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:16:10,578 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:16:55,760 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:16:58,633 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:17:08,689 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:17:18,903 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:17:21,575 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-07 15:17:21,590 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:17:21,607 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:17:21,612 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:17:21,615 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:17:21,623 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:17:21,627 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:17:21,631 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:17:21,641 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:17:22,156 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:17:22,371 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:17:22,371 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:17:23,091 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:17:23,097 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:17:23,605 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:18:50,659 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:18:53,385 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:19:03,450 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:19:12,666 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-07 15:19:12,676 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:19:12,680 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:19:12,689 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:19:12,695 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:19:12,712 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:19:12,719 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:19:12,729 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:19:13,242 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:19:13,451 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:19:13,451 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:19:14,166 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:19:14,190 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:19:14,696 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:19:14,745 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:19:14,955 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:25:53,268 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:25:58,062 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:26:08,178 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:26:17,342 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-07 15:26:17,347 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:26:17,355 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:26:17,359 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:26:17,362 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:26:17,365 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:26:17,373 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:26:17,377 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:26:17,917 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:26:18,129 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:26:18,131 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:26:18,872 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:26:18,876 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:26:19,380 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:26:19,468 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:26:19,683 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:27:21,876 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:27:24,831 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:27:24,832 |  BramHope Website Portal |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:27:24,959 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:27:24,975 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:27:25,118 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:27:25,128 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:27:25,687 |  BramHope Website Portal |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:27:25,759 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:27:25,771 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:27:25,888 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:27:25,900 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:27:25,974 |  BramHope Website Portal |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:27:29,885 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:27:41,991 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:27:45,595 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:27:55,662 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:28:05,725 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:28:09,018 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-07 15:28:09,023 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:28:09,030 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:28:09,045 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:28:09,078 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:28:09,107 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:28:09,122 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:28:09,635 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:28:09,847 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:28:09,850 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:28:10,611 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:28:10,617 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:28:11,137 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:28:11,170 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:28:43,889 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:28:47,309 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:28:57,385 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:29:02,445 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-07 15:29:02,452 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:29:02,458 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:29:02,461 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:29:02,464 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:29:02,470 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:29:02,474 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:29:02,478 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:29:03,008 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:29:03,227 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:29:03,228 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:29:28,519 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:29:31,372 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:29:39,546 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:29:39,749 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:29:39,756 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:29:39,759 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:29:39,762 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:29:39,765 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:29:39,768 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:29:39,770 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:29:39,773 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:29:39,776 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:29:39,779 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:29:40,289 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:29:40,517 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:29:40,518 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:30:06,854 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:30:09,672 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:30:18,991 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:30:19,197 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:30:19,204 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:30:19,208 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:30:19,212 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:30:19,215 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:30:19,219 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:30:19,223 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:30:19,228 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:30:19,235 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:30:19,239 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:30:19,764 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:30:20,011 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:30:20,013 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:30:28,867 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:30:31,827 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:30:39,783 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:30:39,988 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:30:39,995 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:30:39,997 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:30:40,000 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:30:40,004 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:30:40,007 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:30:40,010 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:30:40,014 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:30:40,017 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:30:40,019 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:30:40,529 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:30:40,756 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:30:40,757 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:30:41,491 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:30:41,498 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:30:42,011 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:31:30,586 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:31:33,413 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:31:43,458 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:31:51,758 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:31:51,773 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:31:51,777 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:31:51,785 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:31:51,789 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:31:51,792 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:31:51,797 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:31:51,804 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:31:51,808 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:31:51,811 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:31:52,336 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:31:52,593 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:31:52,593 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:41:34,743 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:41:37,303 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:41:41,878 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:41:42,083 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:41:42,092 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:41:42,097 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:41:42,101 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:41:42,106 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:41:42,113 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:41:42,119 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:41:42,126 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:41:42,135 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:41:42,142 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:41:42,652 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:41:42,877 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:41:42,877 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:42:18,873 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:42:21,888 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:42:21,943 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:42:22,164 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:42:22,184 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:42:22,204 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:42:22,223 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:42:22,241 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:42:22,257 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:42:22,277 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:42:22,299 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:42:22,317 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:42:22,333 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:42:23,047 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:42:23,074 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:42:23,078 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:42:23,165 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:42:23,181 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:42:23,326 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:42:23,338 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:42:23,727 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:42:23,805 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:42:23,813 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:42:23,926 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:42:23,944 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:42:24,018 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:42:26,085 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:42:26,086 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:42:27,456 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:42:27,479 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:42:28,554 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:43:16,157 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:43:19,369 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:43:19,501 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:43:19,725 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:43:19,755 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:43:19,776 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:43:19,800 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:43:19,817 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:43:19,837 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:43:19,855 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:43:19,871 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:43:19,888 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:43:19,911 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:43:20,546 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:43:20,572 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:43:20,575 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:43:20,674 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:43:20,691 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:43:20,838 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:43:20,848 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:43:21,183 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:43:21,259 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:43:21,271 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:43:21,397 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:43:21,411 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:43:21,495 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:43:23,670 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:43:23,670 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:43:25,127 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:43:25,159 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:43:26,224 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:43:48,616 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:43:51,366 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:43:51,367 |  BramHope Website Portal |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:43:51,643 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:43:51,660 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:43:51,859 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:43:51,876 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:43:52,275 |  BramHope Website Portal |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:43:52,351 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 15:43:52,366 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:43:52,511 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 15:43:52,520 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 15:43:52,604 |  BramHope Website Portal |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:43:59,663 |  Habitos - CRM Info |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:44:00,910 |  Habitos - CRM Info |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:44:01,096 |  Habitos - CRM Info |INFO | User can enter the name in name field
+2019-01-07 15:44:01,288 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:44:01,290 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:44:01,292 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:44:01,295 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:44:01,298 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:44:01,303 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:44:01,306 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:44:01,309 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:44:01,311 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:44:14,879 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:44:18,041 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:44:18,089 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:44:18,307 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:44:18,330 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:44:18,346 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:44:18,364 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:44:18,382 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:44:18,402 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:44:18,423 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:44:18,442 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:44:18,463 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:44:18,484 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:44:19,112 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:44:19,125 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:44:19,129 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:44:19,234 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:44:19,252 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:44:19,401 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:44:19,413 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:44:19,779 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:44:19,855 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:44:19,867 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:44:19,977 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:44:19,988 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:44:20,068 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:44:22,029 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:44:22,030 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:44:23,391 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:44:23,422 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:44:24,491 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:45:07,326 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:45:09,908 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:45:11,961 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:45:12,179 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:45:12,205 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:45:12,226 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:45:12,242 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:45:12,262 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:45:12,278 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:45:12,301 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:45:12,319 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:45:12,336 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:45:12,356 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:45:12,946 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:45:12,981 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:45:12,984 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:45:13,111 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:45:13,129 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:45:13,510 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:45:13,529 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:45:14,032 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:45:14,136 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:45:14,150 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:45:14,310 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:45:14,324 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:45:14,407 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:45:16,194 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:45:16,194 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:45:17,569 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:45:17,593 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:45:18,666 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:55:03,439 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:55:06,813 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:55:08,851 |  Habitos - CRM Info |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:55:09,075 |  Habitos - CRM Info |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:55:09,104 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:55:09,128 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:55:09,152 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:55:09,174 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:55:09,196 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:55:09,217 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:55:09,238 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:55:09,264 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:55:09,287 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:55:09,909 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:55:09,942 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:55:09,943 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:55:10,056 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:55:10,089 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:55:10,265 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:55:10,278 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:55:10,823 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:55:10,915 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:55:10,969 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:55:11,123 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:55:11,137 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:55:11,220 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:55:15,500 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:55:15,500 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:55:16,926 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:55:16,946 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:55:18,033 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 15:59:07,277 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 15:59:10,521 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 15:59:12,606 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:59:12,831 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 15:59:12,849 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 15:59:12,871 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 15:59:12,893 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 15:59:12,913 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 15:59:12,933 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 15:59:12,960 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 15:59:12,984 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 15:59:13,008 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 15:59:13,030 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 15:59:13,650 |  Habitos - CRM Info |INFO | Verify that user can able to click the  submit button
+2019-01-07 15:59:13,715 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-07 15:59:13,717 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 15:59:13,856 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:59:13,886 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:59:14,068 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:59:14,084 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:59:14,513 |  Habitos - CRM Info |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 15:59:14,609 |  Habitos - CRM Info |INFO | Verify that if the User Name field is present 
+2019-01-07 15:59:14,622 |  Habitos - CRM Info |INFO | Verify that if the username fields get autofocus
+2019-01-07 15:59:14,788 |  Habitos - CRM Info |INFO | Verify that if the Password  field is present 
+2019-01-07 15:59:14,798 |  Habitos - CRM Info |INFO | Verify that if the password fields get focused
+2019-01-07 15:59:14,882 |  Habitos - CRM Info |INFO | Verify that user can able to login the valid credentials
+2019-01-07 15:59:17,107 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 15:59:17,107 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 15:59:18,449 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 15:59:18,481 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 15:59:19,542 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:06:08,890 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:06:13,150 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:06:21,561 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:06:21,764 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:06:21,769 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:06:21,773 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:06:21,776 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:06:21,778 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:06:21,782 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:06:21,785 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:06:21,789 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:06:21,792 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:06:21,795 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:06:22,310 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:06:22,524 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:06:22,525 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:06:23,251 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:06:23,256 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:06:23,761 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:19:01,934 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:19:07,696 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:19:19,782 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:19:23,606 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:19:23,617 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:19:23,621 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:19:23,627 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:19:23,634 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:19:23,638 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:19:23,645 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:19:23,649 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:19:23,653 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:19:23,656 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:19:24,182 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:19:24,413 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:19:24,414 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:19:25,130 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:19:25,145 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:19:25,667 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:22:52,646 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:22:56,450 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:23:08,519 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:23:10,179 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:23:10,234 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:23:10,244 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:23:10,248 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:23:10,252 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:23:10,259 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:23:10,263 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:23:10,267 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:23:10,276 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:23:10,280 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:23:10,790 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:23:11,017 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:23:11,018 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:23:11,776 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:23:11,783 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:25:45,128 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:25:49,645 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:25:55,876 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:25:56,081 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:25:56,092 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:25:56,096 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:25:56,100 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:25:56,104 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:25:56,109 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:25:56,116 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:25:56,126 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:25:56,135 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:25:56,140 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:25:56,651 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:25:56,876 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:25:56,876 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:25:57,597 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:29:02,594 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:29:06,969 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:29:14,738 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:29:20,998 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:29:27,049 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:29:33,095 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:29:39,131 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:29:45,171 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:29:51,314 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:29:57,332 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:32:13,632 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:32:18,062 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:32:23,735 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:32:23,938 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:32:23,943 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:32:23,946 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:32:23,952 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:32:23,955 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:32:23,959 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:32:23,963 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:32:23,970 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:32:23,972 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:32:23,976 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:32:24,492 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:32:24,707 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:32:24,707 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:32:25,493 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:32:25,516 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:32:26,055 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:40:19,115 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:40:21,955 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:40:21,956 |  BramHope Website Portal |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:40:22,101 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 16:40:22,114 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 16:40:22,242 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 16:40:22,253 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 16:40:22,674 |  BramHope Website Portal |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 16:40:22,748 |  BramHope Website Portal |INFO | Verify that if the User Name field is present 
+2019-01-07 16:40:22,761 |  BramHope Website Portal |INFO | Verify that if the username fields get autofocus
+2019-01-07 16:40:22,881 |  BramHope Website Portal |INFO | Verify that if the Password  field is present 
+2019-01-07 16:40:22,894 |  BramHope Website Portal |INFO | Verify that if the password fields get focused
+2019-01-07 16:40:22,967 |  BramHope Website Portal |INFO | Verify that user can able to login the valid credentials
+2019-01-07 16:40:30,606 |  BramHope Website Portal |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:44:00,355 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:44:03,857 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:44:15,920 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:44:21,387 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:44:21,402 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:44:21,405 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:44:21,413 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:44:21,418 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:44:21,422 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:44:21,430 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:44:21,435 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:44:21,441 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:44:21,448 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:44:21,961 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:44:22,194 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:44:22,195 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:50:45,262 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:50:48,983 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:50:55,712 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:50:55,917 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:50:55,929 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:50:55,934 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:50:55,940 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:50:55,944 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:50:55,948 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:50:55,952 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:50:55,957 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:50:55,961 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:50:55,965 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:50:56,475 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:50:56,699 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:50:56,699 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:50:57,423 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:50:57,426 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:50:57,931 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:51:32,016 |  BramHope Website Portal |INFO | browser gets open
+2019-01-07 16:51:35,735 |  BramHope Website Portal |INFO | browser gets valid ip address
+2019-01-07 16:51:47,821 |  BramHope Website Portal |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:51:58,065 |  BramHope Website Portal |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:52:08,083 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:52:13,760 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-07 16:52:13,770 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:52:13,774 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:52:13,778 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:52:13,785 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:52:13,788 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:52:13,792 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:52:13,797 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:52:14,317 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:52:14,546 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:52:14,547 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:52:15,300 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:52:15,306 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:52:15,818 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 16:54:05,473 |  Habitos ERP |INFO | browser gets open
+2019-01-07 16:54:09,316 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 16:54:12,934 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:54:13,138 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:54:13,146 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:54:13,148 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:54:13,152 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:54:13,156 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:54:13,159 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:54:13,162 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:54:13,165 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:54:13,172 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:54:13,176 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:54:13,686 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:54:13,920 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:54:13,921 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:54:14,646 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:54:14,650 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 16:55:34,080 |  Habitos ERP |INFO | browser gets open
+2019-01-07 16:55:38,050 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 16:55:40,511 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:55:40,716 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 16:55:40,724 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 16:55:40,727 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 16:55:40,730 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 16:55:40,734 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 16:55:40,738 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 16:55:40,742 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 16:55:40,746 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 16:55:40,750 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 16:55:40,754 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 16:55:41,264 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 16:55:41,488 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 16:55:41,488 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 16:55:42,206 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 16:55:42,210 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 17:00:48,598 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:00:51,126 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:01:03,217 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:01:05,499 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:01:05,533 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 17:01:05,543 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 17:01:05,551 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 17:01:05,556 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 17:01:05,570 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 17:01:05,574 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 17:01:05,579 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 17:01:05,586 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 17:01:05,590 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 17:01:06,123 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 17:01:06,354 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 17:01:06,356 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 17:01:07,091 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:01:07,094 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 17:01:20,229 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:01:24,237 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:01:36,330 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:01:46,551 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:08:49,946 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:08:53,261 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:08:53,293 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 17:08:53,487 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:08:53,504 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:08:53,743 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:08:53,757 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:08:54,160 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 17:08:54,265 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:08:54,281 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:08:54,406 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:08:54,424 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:08:54,504 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-07 17:09:05,911 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:09:07,575 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:09:50,191 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:09:54,569 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:10:01,073 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:10:01,279 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:10:01,284 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 17:10:01,288 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 17:10:01,291 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 17:10:01,295 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 17:10:01,298 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 17:10:01,303 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 17:10:01,306 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 17:10:01,309 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 17:10:01,314 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-07 17:10:01,827 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 17:10:02,043 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-07 17:10:02,044 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-07 17:10:02,764 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:10:02,782 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-07 17:10:03,351 |  Habitos - View Control |ERROR | verify that if click view control menu it should redirect to related screen
+2019-01-07 17:11:55,009 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:11:59,552 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:11:59,574 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 17:11:59,769 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:11:59,784 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:11:59,952 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:11:59,963 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:12:00,378 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 17:12:00,450 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:12:00,463 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:12:00,581 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:12:00,597 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:12:00,664 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-07 17:12:13,100 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:12:15,074 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:53:16,999 |  Habitos ERP |INFO | browser gets open
+2019-01-07 17:53:20,642 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-07 17:53:20,643 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-07 17:53:20,783 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:53:20,809 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:53:20,936 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:53:20,950 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:53:21,340 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-07 17:53:21,417 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-07 17:53:21,431 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-07 17:53:21,559 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-07 17:53:21,573 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-07 17:53:21,644 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-07 17:53:34,734 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-07 17:53:35,940 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-07 17:53:36,112 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-07 17:53:36,448 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-07 17:53:36,451 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-07 17:53:36,455 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-07 17:53:36,458 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-07 17:53:36,461 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-07 17:53:36,462 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-07 17:53:36,465 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-07 17:53:36,468 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-07 17:53:36,470 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 12:48:32,146 |  Habitos ERP |INFO | browser gets open
+2019-01-08 12:49:03,225 |  Habitos ERP |ERROR | isn't working
+2019-01-08 12:49:03,227 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 12:50:25,263 |  Habitos ERP |INFO | browser gets open
+2019-01-08 12:50:59,211 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 12:50:59,212 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 12:50:59,298 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 12:50:59,312 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 12:50:59,411 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 12:50:59,423 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 12:51:03,396 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 12:51:03,447 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 12:51:03,456 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 12:51:03,552 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 12:51:03,563 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 12:51:03,624 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 12:53:04,746 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 12:53:04,951 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-08 12:53:04,955 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-08 12:53:04,958 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-08 12:53:04,961 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-08 12:53:04,963 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-08 12:53:04,967 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-08 12:53:04,971 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 12:53:04,975 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 12:53:04,979 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 12:53:04,982 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 12:59:43,753 |  Habitos ERP |INFO | browser gets open
+2019-01-08 12:59:48,102 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 12:59:48,103 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 12:59:48,298 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 12:59:48,316 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 12:59:48,475 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 12:59:48,497 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 12:59:49,120 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 12:59:49,209 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 12:59:49,223 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 12:59:49,356 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 12:59:49,366 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 12:59:49,443 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 13:00:34,460 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 13:00:34,665 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-08 13:00:34,675 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-08 13:00:34,678 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-08 13:00:34,681 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-08 13:00:34,684 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-08 13:00:34,688 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-08 13:00:34,692 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 13:00:34,696 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 13:00:34,699 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 13:00:34,703 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 13:17:10,475 |  Habitos ERP |INFO | browser gets open
+2019-01-08 13:26:57,067 |  Habitos ERP |INFO | browser gets open
+2019-01-08 13:26:59,984 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 13:27:00,008 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 13:27:00,128 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 13:27:00,143 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 13:27:00,316 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 13:27:00,325 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 13:27:00,631 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 13:27:00,703 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 13:27:00,716 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 13:27:00,832 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 13:27:00,847 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 13:27:00,972 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 13:27:11,732 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 13:27:13,511 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 16:39:53,823 |  Habitos ERP |INFO | browser gets open
+2019-01-08 16:39:58,837 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 16:39:58,837 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 16:39:58,986 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:39:59,006 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:39:59,151 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:39:59,165 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:39:59,711 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 16:39:59,797 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:39:59,809 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:39:59,927 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:39:59,936 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:40:00,013 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 16:40:11,844 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 16:40:14,235 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 16:40:14,410 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 16:40:14,834 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-08 16:40:14,838 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-08 16:40:14,840 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-08 16:40:14,843 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-08 16:40:14,847 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-08 16:40:14,850 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-08 16:40:14,853 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-08 16:40:14,855 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 16:40:14,857 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 16:40:14,860 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 16:40:14,863 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 16:41:33,235 |  Habitos ERP |INFO | browser gets open
+2019-01-08 16:41:36,163 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 16:41:36,164 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 16:41:36,287 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:41:36,301 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:41:36,419 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:41:36,432 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:41:36,832 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 16:41:36,922 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:41:36,935 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:41:37,062 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:41:37,073 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:41:37,155 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 16:41:45,477 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 16:41:47,154 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 16:41:47,348 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 16:41:47,632 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-08 16:41:47,634 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-08 16:41:47,637 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-08 16:41:47,641 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-08 16:41:47,644 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-08 16:41:47,648 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-08 16:41:47,651 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-08 16:41:47,653 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 16:41:47,656 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 16:41:47,658 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 16:41:47,660 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 16:42:08,528 |  Habitos ERP |INFO | browser gets open
+2019-01-08 16:42:11,775 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 16:42:11,775 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 16:42:11,917 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:42:11,934 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:42:12,099 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:42:12,112 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:42:12,465 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 16:42:12,546 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:42:12,558 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:42:12,691 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:42:12,703 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:42:12,786 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 16:42:20,776 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 16:42:22,089 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 16:42:22,316 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 16:42:22,832 |  Habitos ERP |INFO | User can able to select the category
+2019-01-08 16:42:23,191 |  Habitos ERP |INFO | User can enter the email in email field
+2019-01-08 16:42:23,498 |  Habitos ERP |INFO | User can enter the address in address field
+2019-01-08 16:42:23,642 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-08 16:42:26,101 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-08 16:42:26,110 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-08 16:42:26,117 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-08 16:42:26,120 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-08 16:42:26,138 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-08 16:42:26,141 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-08 16:42:26,147 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 16:42:26,152 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 16:42:26,155 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 16:42:26,159 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-08 16:42:51,736 |  Habitos ERP |INFO | browser gets open
+2019-01-08 16:42:55,808 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 16:42:55,809 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 16:42:55,926 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:42:55,941 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:42:56,087 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:42:56,096 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:42:56,656 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 16:42:56,747 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:42:56,760 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:42:56,896 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:42:56,913 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:42:57,009 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 16:43:08,553 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 16:43:11,194 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 16:43:11,416 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 16:43:11,969 |  Habitos ERP |INFO | User can able to select the category
+2019-01-08 16:43:12,370 |  Habitos ERP |INFO | User can enter the email in email field
+2019-01-08 16:43:12,708 |  Habitos ERP |INFO | User can enter the address in address field
+2019-01-08 16:43:13,120 |  Habitos ERP |INFO | User can able to select the facilities
+2019-01-08 16:43:13,322 |  Habitos ERP |INFO | user can enter the lat value
+2019-01-08 16:43:13,500 |  Habitos ERP |INFO | user can enter the longtitue values
+2019-01-08 16:43:13,981 |  Habitos ERP |INFO | user can able to select the from date
+2019-01-08 16:43:14,258 |  Habitos ERP |INFO | Verify that user can able to click the to date
+2019-01-08 16:43:14,632 |  Habitos ERP |INFO | Verify that if user can enter the contact person name
+2019-01-08 16:43:14,726 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-08 16:43:24,735 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-08 16:43:24,751 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 16:43:24,768 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 16:43:24,782 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 16:43:24,795 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 16:43:24,874 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 16:43:25,133 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 16:43:25,235 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 16:43:25,299 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 16:43:25,314 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 16:43:25,863 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 16:43:25,875 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 16:59:54,385 |  Habitos ERP |INFO | browser gets open
+2019-01-08 16:59:57,907 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 16:59:57,940 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 16:59:58,042 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:59:58,056 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:59:58,164 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:59:58,174 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:59:58,562 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 16:59:58,638 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 16:59:58,652 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 16:59:58,765 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 16:59:58,777 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 16:59:58,847 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:00:22,873 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:00:25,597 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:00:25,641 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:00:25,668 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:00:25,690 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:00:25,708 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:00:25,821 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:00:26,117 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:00:26,352 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:00:26,570 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:00:26,593 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:00:27,152 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:00:27,164 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:00:37,698 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:00:47,756 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 17:01:53,142 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:01:55,933 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:01:55,966 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:01:56,202 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:01:56,215 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:01:56,353 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:01:56,371 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:01:56,900 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:01:56,974 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:01:56,989 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:01:57,107 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:01:57,120 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:01:57,190 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:02:08,040 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:02:11,030 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:02:11,064 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:02:11,093 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:02:11,111 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:02:11,127 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:02:11,253 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:02:11,519 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:02:11,727 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:02:11,956 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:02:11,982 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:02:12,538 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:02:12,572 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:02:14,559 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:02:14,564 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 17:26:20,040 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:26:23,046 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:26:23,046 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:26:23,141 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:26:23,157 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:26:23,269 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:26:23,279 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:26:28,684 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:26:28,755 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:26:28,766 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:26:28,884 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:26:28,895 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:26:28,975 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:27:08,387 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:27:16,666 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:27:16,798 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 17:36:56,633 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:36:59,344 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:36:59,345 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:36:59,565 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:36:59,582 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:36:59,740 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:36:59,750 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:37:00,291 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:37:00,372 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:37:00,386 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:37:00,512 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:37:00,521 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:37:00,595 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:37:12,708 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:37:58,164 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:37:58,332 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-08 17:37:58,865 |  Habitos ERP |INFO | User can able to select the category
+2019-01-08 17:37:59,220 |  Habitos ERP |INFO | User can enter the email in email field
+2019-01-08 17:37:59,481 |  Habitos ERP |INFO | User can enter the address in address field
+2019-01-08 17:37:59,909 |  Habitos ERP |INFO | User can able to select the facilities
+2019-01-08 17:38:00,098 |  Habitos ERP |INFO | user can enter the lat value
+2019-01-08 17:38:00,236 |  Habitos ERP |INFO | user can enter the longtitue values
+2019-01-08 17:38:00,604 |  Habitos ERP |INFO | user can able to select the from date
+2019-01-08 17:38:00,837 |  Habitos ERP |INFO | Verify that user can able to click the to date
+2019-01-08 17:38:01,296 |  Habitos ERP |INFO | Verify that if user can enter the contact person name
+2019-01-08 17:38:01,369 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-08 17:38:11,433 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-08 17:38:11,457 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:38:11,471 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:38:11,485 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:38:11,497 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:38:11,572 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:38:11,763 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:38:11,947 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:38:12,116 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:38:12,138 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:38:12,701 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:38:12,713 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:38:23,277 |  Habitos - CRM Info |ERROR | User can able to click edit button
+2019-01-08 17:38:24,125 |  Habitos - CRM Info |INFO | Verify that user can update the mobile number in mobile field
+2019-01-08 17:38:24,693 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:43:14,051 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:43:17,116 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:43:17,146 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:43:17,233 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:43:17,245 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:43:17,354 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:43:17,370 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:43:17,786 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:43:17,873 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:43:17,887 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:43:18,003 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:43:18,017 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:43:18,095 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:43:29,095 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:43:31,994 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:43:32,028 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:43:32,049 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:43:32,062 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:43:32,075 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:43:32,193 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:43:32,445 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:43:32,649 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:43:32,877 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:43:32,895 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:43:33,450 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:43:33,463 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:43:41,482 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:43:41,492 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 17:47:15,701 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:47:18,190 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:47:18,220 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:47:18,446 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:47:18,465 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:47:18,625 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:47:18,637 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:47:19,069 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:47:19,154 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:47:19,168 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:47:19,276 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:47:19,288 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:47:19,360 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:47:30,743 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:47:33,596 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:47:33,627 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:47:33,651 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:47:33,667 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:47:33,683 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:47:33,786 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:47:34,003 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:47:34,232 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:47:34,424 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:47:34,442 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:47:35,004 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:47:35,016 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:47:45,561 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:47:46,729 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 17:51:01,528 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:51:07,458 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:51:07,488 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:51:07,588 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:51:07,601 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:51:07,732 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:51:07,743 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:51:08,175 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:51:08,275 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:51:08,290 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:51:08,416 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:51:08,432 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:51:08,523 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:51:26,164 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:51:28,977 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:51:29,010 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:51:29,035 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:51:29,049 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:51:29,062 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:51:29,166 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:51:29,411 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:51:29,627 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:51:29,824 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:51:29,845 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:51:30,406 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:51:30,421 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:51:36,521 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:51:36,527 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 17:54:31,918 |  Habitos ERP |INFO | browser gets open
+2019-01-08 17:54:34,940 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 17:54:34,966 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 17:54:35,170 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:54:35,184 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:54:35,312 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:54:35,335 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:54:35,827 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 17:54:35,918 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 17:54:35,933 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 17:54:36,049 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 17:54:36,059 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 17:54:36,136 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 17:54:48,157 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:54:51,026 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 17:54:51,054 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 17:54:51,072 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 17:54:51,084 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 17:54:51,096 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 17:54:51,197 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 17:54:51,403 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 17:54:51,638 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 17:54:51,841 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 17:54:51,863 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 17:54:52,444 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 17:54:52,457 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 17:54:53,771 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 17:54:53,780 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-08 18:01:13,273 |  Habitos ERP |INFO | browser gets open
+2019-01-08 18:01:16,295 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 18:01:16,323 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 18:01:16,569 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 18:01:16,584 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 18:01:16,747 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 18:01:16,758 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 18:01:17,313 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 18:01:17,417 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 18:01:17,434 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 18:01:17,565 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 18:01:17,577 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 18:01:17,664 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 18:01:28,574 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 18:01:31,076 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 18:02:02,077 |  Habitos ERP |INFO | browser gets open
+2019-01-08 18:02:05,181 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-08 18:02:05,200 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-08 18:02:05,458 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 18:02:05,473 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 18:02:05,613 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 18:02:05,634 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 18:02:06,178 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-08 18:02:06,258 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-08 18:02:06,270 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-08 18:02:06,434 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-08 18:02:06,448 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-08 18:02:06,530 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-08 18:02:18,974 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 18:02:21,971 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-08 18:02:21,997 |  Habitos - CRM Info |INFO | Verify that user can able to select the meal time
+2019-01-08 18:02:22,015 |  Habitos - CRM Info |INFO | Verify that user can able to select meal type
+2019-01-08 18:02:22,027 |  Habitos - CRM Info |INFO | Verify that user can able to select Student type
+2019-01-08 18:02:22,040 |  Habitos - CRM Info |INFO | Verify that user can able to select spread type
+2019-01-08 18:02:22,163 |  Habitos - CRM Info |INFO | Verify that user can able to enter the total count
+2019-01-08 18:02:22,490 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-08 18:02:22,792 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-08 18:02:23,048 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-08 18:02:23,065 |  Habitos - CRM Info |INFO | Verify that user can able to select the order type
+2019-01-08 18:02:23,592 |  Habitos - CRM Info |ERROR | Verify that user can able to click the  submit button
+2019-01-08 18:02:23,605 |  Habitos - CRM Info |ERROR | Verify that after creating a new tenent it should redirect to index screen
+2019-01-08 18:02:34,144 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-08 18:02:37,096 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-10 14:30:55,005 |  Habitos ERP |INFO | browser gets open
+2019-01-10 14:30:58,253 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 14:30:58,254 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-10 14:30:58,372 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-10 14:30:58,386 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-10 14:30:58,532 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-10 14:30:58,548 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-10 14:30:58,980 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-10 14:30:59,069 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-10 14:30:59,084 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-10 14:30:59,222 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-10 14:30:59,236 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-10 14:30:59,318 |  Habitos ERP |INFO | Verify that user can able to login the valid credentials
+2019-01-10 14:31:13,996 |  Habitos ERP |INFO | Verify that if click info it should redirect to crm info index screen 
+2019-01-10 14:31:17,280 |  Habitos ERP |INFO | Verify that if click add new button it should redirect to add new screen
+2019-01-10 14:31:17,433 |  Habitos ERP |INFO | User can enter the name in name field
+2019-01-10 14:31:17,976 |  Habitos ERP |INFO | User can able to select the category
+2019-01-10 14:31:18,298 |  Habitos ERP |INFO | User can enter the email in email field
+2019-01-10 14:31:18,560 |  Habitos ERP |INFO | User can enter the address in address field
+2019-01-10 14:31:18,975 |  Habitos ERP |INFO | User can able to select the facilities
+2019-01-10 14:31:19,162 |  Habitos ERP |INFO | user can enter the lat value
+2019-01-10 14:31:19,306 |  Habitos ERP |INFO | user can enter the longtitue values
+2019-01-10 14:31:25,331 |  Habitos ERP |ERROR | Verify that user can enter the mobile number in mobile field
+2019-01-10 14:31:25,339 |  Habitos ERP |ERROR | user can select the exclude options
+2019-01-10 14:31:25,343 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-10 14:31:25,376 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-10 14:31:25,380 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-10 14:31:25,386 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-10 14:31:25,397 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-10 14:31:25,406 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-10 14:31:25,410 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-10 14:31:25,413 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-10 14:31:25,416 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-10 15:37:52,417 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:37:56,133 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:37:56,133 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-10 15:37:56,281 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-10 15:37:56,297 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-10 15:37:56,427 |  Habitos ERP |INFO | Verify that if the Password  field is present 
+2019-01-10 15:37:56,439 |  Habitos ERP |INFO | Verify that if the password fields get focused
+2019-01-10 15:37:56,893 |  Habitos ERP |INFO | Verify that if the user can't able to login with correct un & incorrect password
+2019-01-10 15:37:56,978 |  Habitos ERP |INFO | Verify that if the User Name field is present 
+2019-01-10 15:37:56,992 |  Habitos ERP |INFO | Verify that if the username fields get autofocus
+2019-01-10 15:39:10,766 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:39:15,617 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:39:15,618 |  Habitos ERP |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-10 15:39:50,318 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:39:53,955 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:40:06,008 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-10 15:40:10,502 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-10 15:40:10,535 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-10 15:40:10,551 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-10 15:40:10,555 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-10 15:40:10,568 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-10 15:40:10,574 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-10 15:40:10,585 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-10 15:40:10,611 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-10 15:40:10,619 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-10 15:40:10,622 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-10 15:40:11,182 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-10 15:40:11,413 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-10 15:40:11,414 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-10 15:40:12,149 |  Habitos - Individual_Enrollment |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-10 15:40:12,156 |  Habitos - Individual_Enrollment |ERROR | if click upload button it should upload the enrolment file
+2019-01-10 15:40:34,975 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:40:46,962 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:40:55,872 |  Habitos ERP |ERROR | Verify that if click info it should redirect to crm info index screen 
+2019-01-10 15:40:56,077 |  Habitos ERP |ERROR | Verify that if click add new button it should redirect to add new screen
+2019-01-10 15:40:56,085 |  Habitos - CRM Info |ERROR | Verify that user can able to select the meal time
+2019-01-10 15:40:56,087 |  Habitos - CRM Info |ERROR | Verify that user can able to select meal type
+2019-01-10 15:40:56,091 |  Habitos - CRM Info |ERROR | Verify that user can able to select Student type
+2019-01-10 15:40:56,094 |  Habitos - CRM Info |ERROR | Verify that user can able to select spread type
+2019-01-10 15:40:56,098 |  Habitos - CRM Info |ERROR | Verify that user can able to enter the total count
+2019-01-10 15:40:56,101 |  Habitos - CRM Info |INFO | Verify that user can able to select the consume time
+2019-01-10 15:40:56,110 |  Habitos - CRM Info |INFO | Verify that user can able to select the dispatch time
+2019-01-10 15:40:56,114 |  Habitos - CRM Info |INFO | Verify that user can able to select the delivery time
+2019-01-10 15:40:56,117 |  Habitos - CRM Info |ERROR | Verify that user can able to select order  type
+2019-01-10 15:40:56,641 |  Habitos - CRM Info |INFO | ********** Verify that use can able to login with correct username & incorrect password***********
+2019-01-10 15:40:56,878 |  Habitos - View Control |ERROR | if click add button it should redirect to add screen
+2019-01-10 15:40:56,879 |  Habitos - View Control |ERROR | if click sumit button the values gets saved and dispalying to index screen
+2019-01-10 15:54:23,104 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:54:32,570 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:54:53,257 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:55:00,829 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:56:37,820 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:56:43,009 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:56:43,200 |  Habitos ERP |INFO | user can enter the search keyword
+2019-01-10 15:59:36,552 |  Habitos ERP |INFO | browser gets open
+2019-01-10 15:59:43,341 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 15:59:43,564 |  Habitos ERP |INFO | user can enter the search keyword
+2019-01-10 16:00:08,445 |  Habitos ERP |INFO | user can open the link
+2019-01-10 16:02:09,044 |  Habitos ERP |INFO | browser gets open
+2019-01-10 16:02:13,899 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 16:02:14,127 |  Habitos ERP |INFO | user can enter the search keyword
+2019-01-10 16:02:39,117 |  Habitos ERP |INFO | user can open the link
+2019-01-10 16:04:50,421 |  Habitos ERP |INFO | browser gets open
+2019-01-10 16:04:55,601 |  Habitos ERP |INFO | browser gets valid ip address
+2019-01-10 16:04:55,825 |  Habitos ERP |INFO | user can enter the search keyword
+2019-01-10 16:05:12,135 |  Habitos ERP |INFO | user can open the link

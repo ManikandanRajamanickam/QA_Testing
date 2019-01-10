@@ -1,0 +1,45 @@
+# Created at 2019-01-07T15:26:19.143
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-01-07T15:26:19.384
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1386)| verify that if click view control menu it should redirect to related screen
+
+
+# Created at 2019-01-07T15:26:19.415
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T15:26:19.429
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,Login_valid(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T15:26:19.447
+Unexpected IOException: 8,1,com.altius.automation.TestAutomation,Login_valid(com.altius.automation.TestAutomation),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver,TestAutomation.Login_valid:36 \00BB NoSuchWindow no such window: target window alr...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387)\002Cplatform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\000ABuild info: version: '2.5.0'\002C revision: '13548'\002C time: '2011-08-24 13:44:31'\000ASystem info: os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_144'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at com.altius.automation.TestAutomation.Login_valid(TestAutomation.java:36)\000A
+
+
+# Created at 2019-01-07T15:26:19.457
+Unexpected IOException: 5,1,com.altius.automation.TestAutomation,Crminfo_Add(com.altius.automation.TestAutomation),com.altius.automation.TestAutomation,null,null
+
+
+# Created at 2019-01-07T15:26:19.469
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:285)| Verify that if click info it should redirect to crm info index screen 
+
+
+# Created at 2019-01-07T15:26:19.685
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:300)| Verify that if click add new button it should redirect to add new screen
+
+
+# Created at 2019-01-07T15:26:19.709
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,Crminfo_Add(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T15:26:20.474
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.altius.automation.TestAutomation,null,null,null
+
+

@@ -1,0 +1,21 @@
+# Created at 2019-01-07T16:06:23.616
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-01-07T16:06:23.762
+Unexpected IOException with stream: ERROR [main] (TestAutomation.java:1383)| verify that if click view control menu it should redirect to related screen
+
+
+# Created at 2019-01-07T16:06:23.770
+Unexpected IOException: 6,1,com.altius.automation.TestAutomation,view_control(com.altius.automation.TestAutomation),null,null,null
+
+
+# Created at 2019-01-07T16:06:24.101
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.altius.automation.TestAutomation,null,null,null
+
+
